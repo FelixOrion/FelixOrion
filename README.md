@@ -1,6 +1,26 @@
 # 💫 About Me:
-# 👋 Hi, I’m @FelixOrion – Your friendly neighborhood **problem-solver** with a passion for crafting elegant digital experiences.<br>- 👀 I'm looking to collaborate on:** Innovative open-source projects that push the boundaries of low-code and cloud capabilities, or opportunities to contribute to impactful backend systems.
+
+👋 Hi, I’m @FelixOrion – Your friendly neighborhood **problem-solver** with a passion for crafting elegant digital experiences.
+
+👀 I'm intensely interested in **architecting scalable and resilient software solutions**. My current obsession lies in the dynamic intersection of **low-code development**, robust **cloud infrastructures**, and high-performance **backend systems**. I thrive on turning complex challenges into streamlined, efficient applications.
+
+---
+
+# 🌱 What I'm Currently Building/Learning:
+
+* **Deep-diving into Microservices:** Exploring advanced patterns and best practices for distributed systems to unlock unparalleled scalability.
+* **Mastering Container Orchestration:** Becoming a Docker and Kubernetes whisperer to deploy and manage applications with seamless efficiency.
+* **Honing API Design:** Obsessed with crafting intuitive, secure, and blazing-fast APIs that serve as the backbone of modern applications.
+
+---
+
+# 🤝 Let's Connect!
+
+💞️ I'm looking to collaborate on **innovative open-source projects** that push the boundaries of low-code and cloud capabilities, or opportunities to contribute to impactful backend systems.
+
+---
+
+# ⚡ Fun fact!
+💞️ I write code to solve problems, but occasionally create new ones just for the challenge. (It's how I stay sharp, really!) Sometimes, my best debugging happens during a coffee break, staring blankly at a wall.
 
 
-# 💻 Tech Stack:
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
